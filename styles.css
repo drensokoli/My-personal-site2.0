@@ -1,0 +1,188 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 300%;
+}
+
+h2{
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 250%;
+}
+
+h3{
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 200%;
+}
+
+
+p{
+    font-family: 'Roboto Mono', monospace;
+    font-size: large;
+}
+
+.intro{
+    font-size: 150%;
+}
+.name{
+    position: absolute;
+    top: 50%;
+    left: 52%;
+    margin-left: -125.5px;
+    margin-top: -25px;
+
+}
+
+.prof{
+    position: absolute;
+    top: 51%;
+    left: 52.5%;
+    margin-left: -57.18px;
+}
+.myskills{
+    position: absolute;
+    top: 10px;
+    right: 50%;
+    margin-right: -71px;
+ }
+
+.h3music{
+    position: absolute;
+    top: 660px;
+    right: 50%;
+    margin-right: -110px;
+}
+.h3ps{
+    position: absolute;
+    left: 330px;
+    top: 150px;
+}
+.h3pr{
+    position: absolute;
+    right: 330px;
+    top: 150px;
+}
+
+.getintouch{
+    position: absolute;
+    top: 120px;
+    left: 50%;
+    margin-left: -133px;
+    font-size: 350%;
+
+}
+
+
+.links{
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    margin-left: -100px;
+    font-size: 130%;
+}
+
+.upper-container{
+    background-color: #664E88;
+    height: 725px;
+    position: relative;
+    
+}
+
+
+.second-container{
+    background-color:#316B83;
+    height: 450px;
+
+}
+.third-container{
+    background-color: #664E88;
+    position: relative;
+    height: 1200px;
+}
+
+.bottom-container{
+    position: relative;
+    background-color: #664E88;
+    height: 480;
+}
+
+
+.shape1{
+    position: absolute;
+    bottom: -1px;
+    right: 0;
+    height: 1050px;
+    
+}
+
+.profili{
+    width: 600px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: table;
+    background-attachment: fixed;
+}
+
+
+hr{
+    width: 25%;
+    
+    border-color: white;
+    border-width: 1px;
+}
+
+.ubt{
+    height: 230px;
+}
+
+.bg2{
+    position: absolute;
+    height: 1263.1px;
+    top: -1px;
+    left: -5px;
+}
+.music{
+    height: 400px;
+    position: absolute;
+    top: 750px;
+    align-items: center;
+    right: 50%;
+    margin-right: -200px;
+}
+.ps{
+    position: absolute;
+    top: 250px;
+    left: 220px;
+    height: 350px;
+}
+.pr{
+    position: absolute;
+    top: 250px;
+    right: 220px;
+    height: 350px;
+}
+.shape2{
+    position: absolute;
+    width: 1460px;
+    top: -2px;
+    left: 50%;
+    margin-left: -730px;
+}
+
+.linkedin{
+    position: absolute;
+    height: 55px;
+    bottom: 48px;
+    right: 55%;
+}
+
+.github{
+    position: absolute;
+    height: 50px;
+    bottom: 50px;
+    left: 55%;
+}
